@@ -8,7 +8,7 @@ Welcome to TravelMate, your go-to app for finding and sorting hotels, restaurant
   
 - **Interactive Map:** Visualize the locations on an interactive map for better planning.
 
-- **Detailed Information:** Click on a place to view detailed information, including star ratings, address, Trip Advisor link, official website, phone number, and price range.
+- **Detailed Information:** Click on a place to view detailed information, including star ratings, address, Trip Advisor link, official website, phone number, popular cuisines and price range.
 
 ![TravelMate App Screenshot](screenshots/travelmate_screenshot.png "TravelMate App")
 
