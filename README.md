@@ -58,14 +58,6 @@ The app will be accessible at http://localhost:3000 by default.
 - Trip Advisor API
 - Google Places API
 
-## Contributing
-
-Feel free to contribute to the development of TravelMate by following our [contribution guidelines](link-to-guidelines).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
-
 Happy traveling with TravelMate! 🌍✈️
 
 
