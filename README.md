@@ -43,11 +43,12 @@ The app will be accessible at http://localhost:3000 by default.
 
 - Navigate to the Map view to see the locations visually.
 - Click on the markers for a quick overview.
+- Integrated Autocomplete searchbar that lets you jump to anywhere in the world.
 
 ## Detailed Information:
 
 - Click on a location to view detailed information.
-- Find important details like star ratings, address, Trip Advisor link, official website, phone number, and price range.
+- Find important details like star ratings, address, Trip Advisor link, official website, phone number, popular cuisines and price range.
 
 ## Technologies Used
 
@@ -55,6 +56,7 @@ The app will be accessible at http://localhost:3000 by default.
 - Material-UI
 - Google Maps API
 - Trip Advisor API
+- Google Places API
 
 ## Contributing
 
