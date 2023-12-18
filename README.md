@@ -10,6 +10,9 @@ Welcome to TravelMate, your go-to app for finding and sorting hotels, restaurant
 
 - **Detailed Information:** Click on a place to view detailed information, including star ratings, address, Trip Advisor link, official website, phone number, and price range.
 
+![TravelMate App Screenshot](screenshots/travelmate_screenshot.png "TravelMate App")
+
+
 ## Getting Started
 
 Follow these steps to get TravelMate up and running on your local machine:
